@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.205.50.20:8081/repository/java_app_release/</url>
+	      <url>http://54.147.19.201:8081/repository/keita-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.205.50.20:8081/repository/java_snapshot/</url>
+	      <url>http://54.147.19.201:8081/repository/keita-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
